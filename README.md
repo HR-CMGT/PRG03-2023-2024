@@ -1,4 +1,4 @@
-# PRG03
+# PRG03 - Javascript & Webservices
 In deze module leer je de belangrijkste elementen van Javascript voor het web.
 Je gaat dit doen door het doorlopen van een op maat gemaakte EDU-course en het bouwen
 van een eigen magazine als praktijkopdracht. Je front-end zit gekoppeld aan een eigen
