@@ -2,7 +2,7 @@
 
 Je gaat aan de slag met het ontwikkelen van een eigen magazine binnen een dynamische frontend. De opdracht is
 verdeeld in de deelopdrachten om je stap voor stap te laten ontwikkelen. Je mag elke vorm van een magazine maken,
-zolang de randvoorwaarden (technisch, functioneel) in basis gelijk zijn aan het [foodmagazine](foodmagazine-exampe).
+zolang de randvoorwaarden (technisch, functioneel) in basis gelijk zijn aan het [foodmagazine](foodmagazine-example).
 Je mag zelf geen 'foodmagazine' bouwen, dit moet een eigen verzonnen magazine zijn die qua functionaliteiten minimaal
 gelijk is aan ons gestelde voorbeeld. Deze case dient als inspiratie welke functionaliteiten er nodig zijn voor de
 door ons gestelde eisen. Een voorbeeldvideo van de werking kun je vinden op Brightspace in het mapje 'Praktijkopdracht'.
