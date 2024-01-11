@@ -5,26 +5,22 @@ EDU-course. Dit is een middel om alle Javascript theorie uit dit kwartaal
 tot je te nemen en gemakkelijk te kunnen herhalen als je iets nog niet
 helemaal snapt.
 
-> Let op: Meedoen aan deze EDU-course is verplicht. Deze opdrachten zijn
-> voorwaardelijk om mee te mogen doen aan de praktijkopdracht. Lees de
-> eisen hiervoor goed na in hoofdstuk 3.2 van de cursushandleiding.
+> **Let op**: Meedoen aan deze EDU-course is verplicht. Deze opdrachten zijn
+> voorwaardelijk om mee te mogen doen aan de praktijkopdracht. Lees de eisen
+> hiervoor goed na in hoofdstuk 3.2 van de cursushandleiding.
 
 ## Installatie
-
-Om aan de slag te kunnen moet je aan aantal stappen doorlopen.
 
 ### NodeJS
 
 Als eerste moet je NodeJS installeren. Ga hiervoor naar de
 [download](https://nodejs.org/en/download) pagina en kies hier de LTS-versie
-voor je eigen besturingssysteem.
+voor je eigen besturingssysteem. Als tijdens de installatie gevraagd wordt of
+het aan het `$PATH` toegevoegd moet worden antwoord je daarop "ja".
 
 | ![NodeJS download](img/nodejs-download.png) | 
 |:-------------------------------------------:| 
 |              *NodeJS Download*              |
-
-Als tijdens de installatie gevraagd wordt of het aan het `$PATH` toegevoegd
-moet worden antwoord je daarop "ja".
 
 ### Installatie plugin
 
@@ -78,10 +74,14 @@ schrijven en rechts de uitleg wat je moet doen voor de betreffende opdracht.
 |            *Overzicht van course*             |
 
 Als je een opdracht controleert op het antwoord via de 'Check' knop, krijg je
-feedback als de vraag niet goed is gegaan. Je kunt het zo vaak proberen als je
+feedback als de vraag niet goed is beantwoord. Je kunt het zo vaak proberen als je
 wilt. Mocht je uiteindelijk niet uit een opdracht komen, dan kun je de "Peek
 Solution" knop gebruiken. Daarmee kun je jouw eigen antwoord vergelijken met het
 goede antwoord.
+
+> De "Peek Solution" optie kun je natuurlijk ook gebruiken als je het wel goed hebt
+> gedaan. Misschien verschilt de uitwerking en kun je daar weer van leren om je code
+> netter te maken.
 
 | ![Course feedback](img/course-feedback.png) | 
 |:-------------------------------------------:| 
@@ -91,7 +91,7 @@ goede antwoord.
 |:-------------------------------------------------:| 
 | *Peek Solution kun je gebruiken als je vastloopt* |
 
-Als je het antwoord uiteindelijk, met of zonder hulp, goed hebt gedaan zie je jouw
+Als je de opdracht uiteindelijk, met of zonder hulp, goed hebt opgelost zie je jouw
 voortgang doordat opdrachten groen worden. Als je voortgang inlevert op de gevraagde
 data, dan lever je dus een screenshot in van je eigen werk waarin de betreffende
 opdrachten groen zijn.
@@ -100,6 +100,27 @@ opdrachten groen zijn.
 |:--------------------------------------------:| 
 |    *Zichtbare voortgang binnen de course*    |
 
+Vanaf de opdrachten in het mapje "DOM" heb je ook je browser nodig. Aangezien je het
+project in je `htdocs` map hebt gezet kun je via http://localhost/prg03-edu/ direct
+bij de uitwerkingen van dit project. Je kunt alle bestanden die je niet herkent (op
+de afbeelding rood omcirkelt) gewoon negeren. Dit zijn bestanden die op de achtergrond
+nodig zijn om de course en bijbehorende tests te laten werken, maar deze zijn niet
+zichtbaar binnen je phpStorm.
+
+| ![Browser overzicht](img/browser-overview.png) | 
+|:----------------------------------------------:| 
+|      *Overzichtspagina course in browser*      |
+
+Navigeer naar de map waar je jouw opdracht wilt testen. Bijvoorbeeld `DOM -> Selecting`
+en open daar je console om je output te kunnen testen. Via
+[deze website](https://balsamiq.com/support/faqs/browserconsole/) kun je inzien hoe je
+het console per browser kunt activeren. Alle console.log statements zijn hier zichtbaar
+wat je kan helpen tijdens het maken van de opdrachten.
+
+| ![Browser course pagina](img/browser-console.png)  | 
+|:--------------------------------------------------:| 
+| *DOM -> Selecting opdracht met console in browser* |
+
 > Ben niet bang om fouten te maken. Het hele doel van deze opdrachten is dat je
 > voorbereid bent op de les, maar ook dat je in je eigen tijd nog kunt oefenen als
-> je bepaalde concepten nog moeilijk vindt. Vooral veel plezier gewenst!
+> je bepaalde concepten nog moeilijk vindt. Vooral veel plezier gewenst! 🎉
