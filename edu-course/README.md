@@ -25,9 +25,9 @@ het aan het `$PATH` toegevoegd moet worden antwoord je daarop "ja".
 ### Installatie plugin
 
 Om de EDU-course te kunnen starten heb je de "JetBrains Academy" plugin nodig.
-Deze kun je installeren door in phpStorm naar je `Settings -> Plugins` te
+Deze kun je installeren door in PhpStorm naar je `Settings -> Plugins` te
 gaan en daar te zoeken op "JetBrains Academy" in de Marketplace. Na installatie
-moet je phpStorm opnieuw opstarten.
+moet je PhpStorm opnieuw opstarten.
 
 | ![JetBrains Academy plugin](img/jetbrans-academy-plugin.png) | 
 |:------------------------------------------------------------:| 
@@ -41,14 +41,14 @@ de course kunt gaan zoeken. Binnen dat venster kies je rechtsbovenin voor de
 |:-----------------------------------------------------:| 
 |            *De Nederlandse taal aanzetten*            |
 
-Kies daarna PRG03 - Javascript en pas onder settings het pad aan waar het project
+Kies daarna `PRG03 - Javascript` en pas onder `Settings` het pad aan waar het project
 wordt neergezet. Dit moet namelijk binnen je htdocs van XAMPP geplaatst worden!
 
 | ![Start course](img/start-course.png) | 
 |:-------------------------------------:| 
 |    *Let op je pad binnen htdocs!*     |
 
-Druk nu op "Start". Daarmee wordt het nieuwe project geopend en volgt een scherm
+Druk nu op `Start`. Daarmee wordt het nieuwe project geopend en volgt een scherm
 waarin je een hoop commando's voorbij ziet komen omdat de course voor je
 geïnstalleerd wordt. Wanneer je onderstaande ziet, is hij klaar en kun je dat
 venster sluiten.
@@ -62,20 +62,23 @@ venster sluiten.
 De installatie is gelukt en je kunt komende lessen dus voorbereid inkomen door
 de gevraagde onderdelen uit te voeren.
 
-> Bekijk op Brightspace dus goed wanneer je jouw bewijs per onderdeel moet
+> Bekijk op Brightspace dus goed wanneer jij jouw bewijs per onderdeel moet
 > inleveren. Als je dit vergeet loop je het risico niet mee te kunnen doen
 > aan de praktijkopdracht.
 
 In de structuur zie je links de opdrachten, in het midden de code die je gaat
 schrijven en rechts de uitleg wat je moet doen voor de betreffende opdracht.
+Lees per opdracht de uitleg aan de rechterzijde aandachtig en gebruik evt. 
+de linkjes naar externe bronnen om je verder in te lezen.
 
 | ![Course structure](img/course-structure.png) | 
 |:---------------------------------------------:| 
-|            *Overzicht van course*             |
+|           *Overzicht van de course*           |
 
-Als je een opdracht controleert op het antwoord via de 'Check' knop, krijg je
-feedback als de vraag niet goed is beantwoord. Je kunt het zo vaak proberen als je
-wilt. Mocht je uiteindelijk niet uit een opdracht komen, dan kun je de "Peek
+Wanneer je een opdracht hebt uitgevoerd klik je op de knop `Check`. Jouw code
+wordt dan gecontroleerd en je ontvangt direct feedback wanneer het antwoord
+nog niet goed is. Gebruik deze feedback om jouw antwoord aan te vullen.
+Je kunt het zo vaak proberen als je wilt. Mocht je uiteindelijk niet uit een opdracht komen, dan kun je de "Peek
 Solution" knop gebruiken. Daarmee kun je jouw eigen antwoord vergelijken met het
 goede antwoord.
 
@@ -91,30 +94,28 @@ goede antwoord.
 |:-------------------------------------------------:| 
 | *Peek Solution kun je gebruiken als je vastloopt* |
 
-Als je de opdracht uiteindelijk, met of zonder hulp, goed hebt opgelost zie je jouw
-voortgang doordat opdrachten groen worden. Als je voortgang inlevert op de gevraagde
-data, dan lever je dus een screenshot in van je eigen werk waarin de betreffende
-opdrachten groen zijn.
+Wanneer je de opdracht uiteindelijk, met of zonder hulp, goed hebt opgelost, dan wordt die opdracht links in de lijst groen.
+Wanneer jij jouw voortgang moet inleveren voor de vereiste deadlines, dan moet je een screenshot inleveren waarop duidelijk te zien is dat de vereiste opdrachten groen zijn.
 
 | ![Voortgang course](img/course-progress.png) | 
 |:--------------------------------------------:| 
 |    *Zichtbare voortgang binnen de course*    |
 
-Vanaf de opdrachten in het mapje "DOM" heb je ook je browser nodig. Aangezien je het
+Vanaf de opdrachten in het mapje `DOM` heb je ook je browser nodig. Aangezien je het
 project in je `htdocs` map hebt gezet kun je via http://localhost/prg03-edu/ direct
 bij de uitwerkingen van dit project. Je kunt alle bestanden die je niet herkent (op
-de afbeelding rood omcirkelt) gewoon negeren. Dit zijn bestanden die op de achtergrond
+onderstaande afbeelding rood omcirkelt) negeren. Dit zijn bestanden die op de achtergrond
 nodig zijn om de course en bijbehorende tests te laten werken, maar deze zijn niet
-zichtbaar binnen je phpStorm.
+zichtbaar binnen je PhpStorm.
 
 | ![Browser overzicht](img/browser-overview.png) | 
 |:----------------------------------------------:| 
 |      *Overzichtspagina course in browser*      |
 
-Navigeer naar de map waar je jouw opdracht wilt testen. Bijvoorbeeld `DOM -> Selecting`
+Navigeer naar de map waar jij jouw opdracht wilt testen. Bijvoorbeeld `DOM -> Selecting`
 en open daar je console om je output te kunnen testen. Via
 [deze website](https://balsamiq.com/support/faqs/browserconsole/) kun je inzien hoe je
-het console per browser kunt activeren. Alle console.log statements zijn hier zichtbaar
+de console per browser kunt activeren. Alle console.log statements zijn hier zichtbaar
 wat je kan helpen tijdens het maken van de opdrachten.
 
 | ![Browser course pagina](img/browser-console.png)  | 
