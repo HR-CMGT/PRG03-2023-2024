@@ -117,7 +117,7 @@ zichtbaar binnen je PhpStorm.
 Navigeer naar de map waar jij jouw opdracht wilt testen. Bijvoorbeeld `DOM -> Selecting`
 en open daar je console om je output te kunnen testen. Via
 [deze website](https://balsamiq.com/support/faqs/browserconsole/) kun je inzien hoe je
-de console per browser kunt activeren. Alle console.log statements zijn hier zichtbaar
+de console per browser kunt activeren. Alle `console.log` statements zijn hier zichtbaar
 wat je kan helpen tijdens het maken van de opdrachten.
 
 | ![Browser course pagina](img/browser-console.png)  | 
