@@ -68,7 +68,7 @@ de gevraagde onderdelen uit te voeren.
 
 In de structuur zie je links de opdrachten, in het midden de code die je gaat
 schrijven en rechts de uitleg wat je moet doen voor de betreffende opdracht.
-Lees per opdracht de uitleg aan de rechterzijde aandachtig en gebruik evt. 
+Lees per opdracht de uitleg aan de rechterzijde aandachtig en gebruik evt.
 de linkjes naar externe bronnen om je verder in te lezen.
 
 | ![Course structure](img/course-structure.png) | 
@@ -78,9 +78,9 @@ de linkjes naar externe bronnen om je verder in te lezen.
 Wanneer je een opdracht hebt uitgevoerd klik je op de knop `Check`. Jouw code
 wordt dan gecontroleerd en je ontvangt direct feedback wanneer het antwoord
 nog niet goed is. Gebruik deze feedback om jouw antwoord aan te vullen.
-Je kunt het zo vaak proberen als je wilt. Mocht je uiteindelijk niet uit een opdracht komen, dan kun je de "Peek
-Solution" knop gebruiken. Daarmee kun je jouw eigen antwoord vergelijken met het
-goede antwoord.
+Je kunt het zo vaak proberen als je wilt. Mocht je uiteindelijk niet uit een
+opdracht komen, dan kun je de "Peek Solution" knop gebruiken. Daarmee kun je jouw
+eigen antwoord vergelijken met het goede antwoord.
 
 > De "Peek Solution" optie kun je natuurlijk ook gebruiken als je het wel goed hebt
 > gedaan. Misschien verschilt de uitwerking en kun je daar weer van leren om je code
@@ -94,8 +94,10 @@ goede antwoord.
 |:-------------------------------------------------:| 
 | *Peek Solution kun je gebruiken als je vastloopt* |
 
-Wanneer je de opdracht uiteindelijk, met of zonder hulp, goed hebt opgelost, dan wordt die opdracht links in de lijst groen.
-Wanneer jij jouw voortgang moet inleveren voor de vereiste deadlines, dan moet je een screenshot inleveren waarop duidelijk te zien is dat de vereiste opdrachten groen zijn.
+Wanneer je de opdracht uiteindelijk, met of zonder hulp, goed hebt opgelost, dan wordt
+die opdracht links in de lijst groen. Wanneer jij jouw voortgang moet inleveren voor de
+vereiste deadlines, dan moet je een screenshot inleveren waarop duidelijk te zien is dat
+de vereiste opdrachten groen zijn.
 
 | ![Voortgang course](img/course-progress.png) | 
 |:--------------------------------------------:| 
