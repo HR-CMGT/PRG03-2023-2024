@@ -11,9 +11,9 @@ door ons gestelde eisen. Een voorbeeldvideo van de werking kun je vinden op Brig
 
 - Gebruik PhpStorm voor het aanmaken van een nieuw project waarin je deze opdracht maakt. Plaats dit project in de
   htdocs map van XAMPP, zodat je het via **http://localhost/--projectnaam--** kunt benaderen.
-- Maak in het project een nieuwe map aan met de naam `webservice` en zorg ervoor dat je de [initiële code](webservice-start) daarin kopieert,
-  zodat je kunt starten met de opdracht.
-- Kies een onderwerp voor jouw magazine en pas de informatie in `actions.php` aan naar informatie over dat onderwerp 
+- Kopieer in dit nieuwe project de map `assignment/webservice-start`. Hierin staat de initiële code voor de webservice.
+  Hernoem de map naar `webservice`.
+- Kies een onderwerp voor jouw magazine en pas de informatie in `actions.php` aan naar de informatie over dat onderwerp. 
   Zorg ervoor dat er minimaal 10 items in staan zodat je voldoende data hebt.
 - Test de JSON-output van jouw webservice in de browser op **http://localhost/--projectnaam--/webservice** om te zien of
   de output klopt. Gebruik eventueel de [Chrome plugin](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) voor een betere weergave van de JSON.
