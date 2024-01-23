@@ -9,7 +9,7 @@ door ons gestelde eisen. Een voorbeeldvideo van de werking kun je vinden op Brig
 
 ## Opdracht 1
 
-- Gebruik phpStorm voor het aanmaken van een nieuw project waarin je deze opdracht maakt. Plaats dit project in je
+- Gebruik PhpStorm voor het aanmaken van een nieuw project waarin je deze opdracht maakt. Plaats dit project in je
   htdocs map van XAMPP, zodat je het via **http://localhost/--projectnaam--** kunt benaderen.
 - Zorg ervoor dat je de [initiële code](webservice-start) lokaal kopieert naar dit nieuwe project, zodat je
   kunt starten met de opdracht. Hernoem de map dan naar 'webservice'.
@@ -17,7 +17,7 @@ door ons gestelde eisen. Een voorbeeldvideo van de werking kun je vinden op Brig
   minimaal 10 items instaan zodat je voldoende data hebt.
 - Test de JSON-output van je webservice in de browser op **http://localhost/--projectnaam--/webservice** om te zien of
   de output klopt. Gebruik eventueel de [Chrome plugin](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en).
-- (Optioneel) Publiceer je project op Github zodat je jouw eigen portfolio gelijk uitbreidt. Je kunt dit in phpStorm doen
+- (Optioneel) Publiceer je project op Github zodat je jouw eigen portfolio gelijk uitbreidt. Je kunt dit in PhpStorm doen
   via `VCS -> Publish on Github`
 ___
 >**Belangrijk**: Gebruik voor Opdracht 2/3/4 eigen teksten en plaatjes, omdat we pas in Opdracht 5 de koppeling naar de 

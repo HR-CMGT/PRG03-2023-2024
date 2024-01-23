@@ -1,6 +1,6 @@
 # EDU-course
 
-Tijdens deze module bereid je jezelf per les voor door middel van de
+Tijdens deze cursus bereid je jezelf per les voor door middel van de
 EDU-course. Dit is een middel om alle Javascript theorie uit dit kwartaal
 tot je te nemen en gemakkelijk te kunnen herhalen als je iets nog niet
 helemaal snapt.
