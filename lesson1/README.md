@@ -1,4 +1,4 @@
-# PRG03 Week 1
+# PRG03 Les 1
 
 - Check deze Git repository uit om te zorgen dat je wekelijks mee kunt doen met de relevante updates uit de les (je
   voor iedere les een git pull doen voor de nieuwste code).

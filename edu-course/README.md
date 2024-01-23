@@ -5,7 +5,7 @@ EDU-course. Dit is een middel om alle Javascript theorie uit dit kwartaal
 tot je te nemen en gemakkelijk te kunnen herhalen als je iets nog niet
 helemaal snapt.
 
-> **Let op**: Meedoen aan deze EDU-course is verplicht. Deze opdrachten zijn
+> ⚠️ **Let op**: Meedoen aan deze EDU-course is verplicht. Deze opdrachten zijn
 > voorwaardelijk om mee te mogen doen aan de praktijkopdracht. Lees de eisen
 > hiervoor goed na in hoofdstuk 3.2 van de cursushandleiding.
 
