@@ -7,4 +7,4 @@
   tijdig in op Brightspace als voorwaardelijkheid van deze cursus!
 - Maak **Opdracht 1** van de [Hoofdopdracht](../assignment).
 - Bij behoefte aan extra oefeningen met HTML/CSS raden we aan terug te kijken naar de materialen van de cursus
-  Frontend Development.
+  Front-end Development.

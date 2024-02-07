@@ -1,6 +1,6 @@
 # Praktijkopdracht: Bouw je eigen magazine
 
-Je gaat aan de slag met het ontwikkelen van een eigen magazine binnen een dynamische frontend. De opdracht is
+Je gaat aan de slag met het ontwikkelen van een eigen magazine binnen een dynamische front-end. De opdracht is
 verdeeld in de deelopdrachten om je stap voor stap te laten ontwikkelen. Je mag elke vorm van een magazine maken,
 zolang de randvoorwaarden (technisch, functioneel) in basis gelijk zijn aan het [foodmagazine](foodmagazine-example).
 Je mag zelf geen 'foodmagazine' bouwen, dit moet een eigen verzonnen magazine zijn die qua functionaliteiten minimaal
@@ -16,7 +16,7 @@ door ons gestelde eisen. Een voorbeeldvideo van de werking kun je vinden op Brig
 - Kies een onderwerp voor jouw magazine en pas de informatie in `actions.php` aan naar de informatie over dat onderwerp. 
   Zorg ervoor dat er minimaal 10 items in staan zodat je voldoende data hebt.
 - Test de JSON-output van jouw webservice in de browser op **http://localhost/--projectnaam--/webservice** om te zien of
-  de output klopt. Gebruik eventueel de [Chrome plugin](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) voor een betere weergave van de JSON.
+  de output klopt. Gebruik eventueel een [Chrome plugin](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) voor een betere weergave van de JSON.
 - (Optioneel) Publiceer je project op GitHub zodat je jouw eigen portfolio gelijk uitbreidt. Je kunt dit in PhpStorm doen
   via `VCS -> Publish on GitHub`
 ___
