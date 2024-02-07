@@ -20,8 +20,8 @@ door ons gestelde eisen. Een voorbeeldvideo van de werking kun je vinden op Brig
 - (Optioneel) Publiceer je project op GitHub zodat je jouw eigen portfolio gelijk uitbreidt. Je kunt dit in PhpStorm doen
   via `VCS -> Publish on GitHub`
 ___
->**Belangrijk**: Gebruik voor Opdracht 2/3/4 eigen teksten en plaatjes, omdat we pas in Opdracht 5 de koppeling naar de 
-Webservice uit Opdracht 1 gaan maken.
+> **Belangrijk**: Pas in opdracht 5 ga je gebruik maken van de webservice die je in opdracht 1 hebt gemaakt.
+> Voor opdracht 2, 3 en 4 zul je dus nog handmatig teksten en afbeeldingen moeten toevoegen.
 ___
 ## Opdracht 2 (zonder AJAX)
 
