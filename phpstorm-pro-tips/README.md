@@ -7,11 +7,12 @@
 - [Pro tips PhpStorm](#pro-tips-phpstorm)
 - [Inleiding](#inleiding)
 - [Preview](#preview)
+- [Variabele refactoren](#variabele-refactoren)
 - [Shortcuts](#shortcuts)
-    - [Regel omhoog/omlaag](#regel-omhoogomlaag)
-    - [Regel dupliceren](#regel-dupliceren)
-    - [Regel verwijderen](#regel-verwijderen)
-    - [Meerdere regels tegelijkertijd bewerken](#meerdere-regels-tegelijkertijd-bewerken)
+  - [Regel omhoog/omlaag](#regel-omhoogomlaag)
+  - [Regel dupliceren](#regel-dupliceren)
+  - [Regel verwijderen](#regel-verwijderen)
+  - [Meerdere regels tegelijkertijd bewerken](#meerdere-regels-tegelijkertijd-bewerken)
 
 <br><hr><br>
 
