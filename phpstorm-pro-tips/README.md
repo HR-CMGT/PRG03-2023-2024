@@ -44,6 +44,20 @@ Sla dit nu op en je zou de preview-knopjes moeten kunnen gebruiken.
 
 <br>
 
+# Variabele refactoren
+
+Heb je een variabele al op meerdere plekken in de code gebruikt en wil je hem hernoemen? Dan kan je deze zogenaamd refactoren. Doorloop de volgende stappen:
+<br>
+
+1. Klik met de rechtermuistoets op de variabele en vervolgens `Refactoren -> Rename...` (shortcut: `⇧ Shift` `F6`)
+2. Voer de nieuwe naam van de variabele in
+3. Kies de scope van de refactoring; moet het door het hele project veranderd worden, of bijvoorbeeld alleen in het huidige bestand?
+4. Klik op `Refactor`
+
+<img src="images/refactor-variable.gif" alt="Refactor variable buttons" title="Refactor variable" width="800">
+
+<br>
+
 # Shortcuts
 
 Hieronder vind je een aantal veelgebruikte shortcuts die het werken met PhpStorm makkelijker maken. Hier worden de
