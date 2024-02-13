@@ -13,6 +13,7 @@
   - [Regel dupliceren](#regel-dupliceren)
   - [Regel verwijderen](#regel-verwijderen)
   - [Meerdere regels tegelijkertijd bewerken](#meerdere-regels-tegelijkertijd-bewerken)
+- [Git repository downloaden](git.md)
 
 <br><hr><br>
 
