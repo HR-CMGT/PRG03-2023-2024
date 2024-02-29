@@ -6,4 +6,4 @@
 - Zorg ervoor dat je bent bijgewerkt met alle opdrachten tot nu toe (t/m opdracht
   2 van de Hoofdopdracht)
 - In de les hebben we de code voor de opdracht van het goudkistje samen gemaakt en
-  is stap voor stap uitgelegd. Volgende week gaan we deze opdracht samen afronden.
+  is stap voor stap uitgelegd. Volgende les gaan we deze opdracht samen afronden.
