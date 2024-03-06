@@ -9,3 +9,5 @@
 # Dependency managers
 vendor
 node_modules
+
+lesson8/openai/webservice/settings.php

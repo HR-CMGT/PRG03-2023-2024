@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OpenAI</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="js/main.js" defer></script>
+</head>
+<body>
+<main>
+    <h1 class="main-title">OpenAI</h1>
+    <p id="api-error"></p>
+
+    <section class="ai-section">
+        <form id="chat-gpt-question-form">
+            <label for="question">Stel een vraag aan ChatGPT:</label>
+            <textarea id="question"></textarea>
+            <button type="submit">Verstuur</button>
+            <button id="speak-button" type="button" disabled>Lees het antwoord voor</button>
+        </form>
+        <p id="answer"></p>
+    </section>
+
+    <section class="ai-section">
+        <form id="dall-e-request-form">
+            <label for="image-request-text">Genereer een plaatje via Dall-E:</label>
+            <input type="text" id="image-request-text"/>
+            <button type="submit">Verstuur</button>
+        </form>
+        <section id="images"></section>
+    </section>
+</main>
+</body>
+</html>

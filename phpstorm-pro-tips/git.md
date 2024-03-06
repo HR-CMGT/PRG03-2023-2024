@@ -13,6 +13,6 @@
 
 ![img1](./images/git3.png)
 
-5. Nu kan je elke week de update downloaden via *Git*, en klik op *Pull*.
+5. Nu kan je elke les de update downloaden via *Git*, en klik op *Pull*.
 
 ![img1](./images/git4.png)

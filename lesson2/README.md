@@ -1,6 +1,6 @@
 # PRG03 Les 2
 
-- [Bekijk het resultaat van de 'hands-on' oefening uit de les van week 2](./hands-on/).
+- [Bekijk het resultaat van de 'hands-on' oefening uit de les van les 2](./hands-on/).
   Heb je deze basics onder de knie? Zo niet, blijf dan oefenen met deze materialen.
 - Maak de opdrachten uit de mappen "Functions & Objects" & "DOM" in de JetBrains
   EDU-course in PhpStorm als voorbereiding op de volgende les. **Let op**: Lever je

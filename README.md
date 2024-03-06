@@ -29,17 +29,18 @@ praktijkopdracht te kunnen bouwen.
 ## [Les 5](lesson5)
 - Bouwen van een todolist
 - Web API's (*localStorage*) 
-- EDU-course self-assessment deadline
 
 ## [Les 6](lesson6)
 - Bouwen van een Pokémon Gallery (deel 1)
 - Werken met AJAX via de Fetch API
+- EDU-course self-assessment deadline
 
 ## [Les 7](lesson7)
 - Bouwen van een Pokémon Gallery (deel 2)
 - Werken met AJAX via de Fetch API
 - Code structuur verbeteren
 
-## Les 8
+## [Les 8](lesson8)
+- OpenAI voorbeeld
 - Herhaling & mogelijkheid tot vragen/feedback
 - [Praktijkopdracht](assignment) deadline
