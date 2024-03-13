@@ -3,7 +3,7 @@
 /**
  * IMPORTANT: The API key is not in this code, as it's connected to a (paid) OpenAI account
  * You don't want others to use your API key. Ever.
- * @TODO Create a settings.php file in your webservice folder with $apiKey variable in this folder
+ * @TODO Create a settings.php file in your webservice folder with API_KEY variable in this folder
  * It looks like this:
  * <?php
  * const API_KEY = '';
